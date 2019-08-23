@@ -9,7 +9,7 @@ https://christylydia34.github.io/final-akan/
 Christine Lydia
  
  ## Setup.
-  Make  a directory on the terminal first , begin by cloning through the following link https://github.com/christylydia34/name.git,  then proceed henceforth.
+  Make  a directory on the terminal first , begin by cloning through the following link  https://christylydia34.github.io/final-akan/ then proceed henceforth.
  
  
  ## Behaviour Driven Document
